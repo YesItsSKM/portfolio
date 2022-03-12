@@ -111,6 +111,13 @@ body {
   position: relative;
 }
 
+.logo {
+  color: #ffffff;
+  font-family: "Gothic A1", sans-serif;
+  font-size: 2rem;
+  font-style: bold;
+}
+
 /* ------------------------------------------------------------------- 
  * ## links
  * ------------------------------------------------------------------- */
