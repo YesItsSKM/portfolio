@@ -127,7 +127,13 @@ img {
   -ms-user-select: none;
 }
 
-.center {
+.center-div {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+.center-img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -2034,7 +2040,7 @@ input::-moz-focus-inner {
   height: 100vh;
   min-height: 82rem;
   overflow: hidden;
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0.4);
   position: relative;
 }
 
