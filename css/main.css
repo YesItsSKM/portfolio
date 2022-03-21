@@ -2439,11 +2439,18 @@ html.no-csstransitions .hero-content {
   }
 
   .hero-social {
+    text-align: center;
     font-size: 1rem;
   }
 
   .hero-scroll {
     right: 2.4rem;
+  }
+
+  .center-div {
+    margin: auto;
+    width: 25vw;
+    text-align: center;
   }
 
 }
@@ -2881,6 +2888,7 @@ html.no-csstransitions .hero-content {
 .folio-item {
   position: relative;
   overflow: hidden;
+  padding: 10px;
 }
 
 .folio-item__caption {
