@@ -133,6 +133,12 @@ img {
   text-align: center;
 }
 
+.center-loader-txt {
+  margin-top: 52vh;
+  text-align: center;
+  font-family: "Gothic A1", sans-serif;
+}
+
 .center-img {
   display: block;
   margin-left: auto;
