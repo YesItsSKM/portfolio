@@ -2,60 +2,11 @@
  *  Ethos Main Stylesheet
  *  Template Ver. 1.0.0
  *  11-05-2019
- *  ------------------------------------------------------------------
- *
- *  TOC:
- *  # custom block grid STACK breakpoints
- *  # base style overrides
- *    ## links
- *  # typography & general theme styles
- *    ## Lists
- *    ## responsive video container
- *    ## floated image 
- *    ## tables
- *    ## Spacing
- *  # preloader
- *  # forms
- *    ## Style Placeholder Text
- *    ## Change Autocomplete styles in Chrome
- *  # buttons
- *  # additional components
- *    ## additional typo styles 
- *    ## skillbars
- *    ## alert box 
- *  # Common and Reusable Styles
- *  # site header
- *    ## header logo
- *    ## main navigation
- *    ## mobile menu toggle
- *    ## download resume button
- *  # hero
- *    ## hero social
- *    ## hero scroll
- *    ## animate intro content
- *    ## animations
- *  # about section
- *    ## career position
- *  # services section
- *    ## services list
- *  # portfolio
- *    ## portfolio list
- *  # testimonials
- *  # CTA
- *  # footer
- *    ## contact block
- *    ## copyright
- *    ## go top
- *
- * =================================================================== */
-
-
-
-
-/* ===================================================================
- * # custom block grid STACK breakpoints
- *
  * ------------------------------------------------------------------- */
+
+
+
+ 
 @media screen and (max-width:1000px) {
   .block-1000-full > .column {
     -ms-flex: 0 0 100%;
@@ -145,14 +96,6 @@ img {
   margin-right: auto;
   width: 80%;
 }
-
-/* .webvideo {
-  padding:0px;
-  margin:0px;
-  width:100%;
-  height:100vh;
-  object-fit: cover;
-} */
 
 .videodiv {
   text-align: center;
